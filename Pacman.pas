@@ -106,6 +106,8 @@ begin
     delay(1000);
   until salir or (pac.puntos = puntos_totales);
 
+//hola mundo
+
   clrscr;
   writeln('Juego terminado!');
   writeln('Puntaje final: ', pac.puntos, ' / ', puntos_totales);
