@@ -117,3 +117,7 @@ begin
   writeln('Presiona una tecla para salir...');
   readkey;
 end.
+
+
+
+{toresi}
