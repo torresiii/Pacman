@@ -107,6 +107,7 @@ begin
   until salir or (pac.puntos = puntos_totales);
 
 //hola mundo
+//tutorial a sofi 
 
   clrscr;
   writeln('Juego terminado!');
